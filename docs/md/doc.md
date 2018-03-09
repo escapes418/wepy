@@ -1001,7 +1001,7 @@ props = {
     },
     
     twoWayTitle: {
-        type: Number,
+        type: String,
         default: 'nothing',
         twoWay: true
     }
